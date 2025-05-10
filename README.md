@@ -16,11 +16,7 @@ PyTorch implementataion for Dual Prototypes-Based Personalized Federated Adversa
 
 `python main.py test` for test only.
 
-## Acknowledgements and References 
-
-This implementation is based on / inspired by:
-
-- https://github.com/SDU-MIMA/SHDCH
+## References and Acknowledgements  
   
 ```bibtex
 @inproceedings{zhan2020supervised,
@@ -30,3 +26,9 @@ This implementation is based on / inspired by:
     pages={3386--3394},
     year={2020},
  }
+```
+
+This implementation is based on / inspired by:
+
+- https://github.com/SDU-MIMA/SHDCH
+
