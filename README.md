@@ -17,7 +17,14 @@ PyTorch implementataion for Dual Prototypes-Based Personalized Federated Adversa
 `python main.py test` for test only.
 
 ## References and Acknowledgements
-- **Zhan, Yu-Wei et al.** (2020) *Supervised hierarchical deep hashing for cross-modal retrieval*. In *Proceedings of the 28th ACM International Conference on Multimedia*, pages 3386-3394.
+
+`@inproceedings{zhan2020supervised,
+  title={Supervised hierarchical deep hashing for cross-modal retrieval},
+  author={Zhan, Yu-Wei and Luo, Xin and Wang, Yongxin and Xu, Xin-Shun},
+  booktitle={Proceedings of the 28th ACM International Conference on Multimedia},
+  pages={3386--3394},
+  year={2020} 
+}`
 
 This implementation is based on / inspired by:
 
