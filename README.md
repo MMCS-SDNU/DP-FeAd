@@ -30,3 +30,9 @@ This implementation is based on / inspired by:
     pages={3386--3394},
     year={2020},
  }
+
+<h2><strong></strong></h2>
+
+This implementation is based on / inspired by:
+
+- https://github.com/SDU-MIMA/SHDCH
