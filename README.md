@@ -16,11 +16,12 @@ PyTorch implementataion for Dual Prototypes-Based Personalized Federated Adversa
 
 `python main.py test` for test only.
 
-## References and Acknowledgements
+## Acknowledgements and References 
 
 This implementation is based on / inspired by:
 
 - https://github.com/SDU-MIMA/SHDCH
+  
 ```bibtex
 @inproceedings{zhan2020supervised,
     title={Supervised hierarchical deep hashing for cross-modal retrieval},
@@ -28,10 +29,4 @@ This implementation is based on / inspired by:
     booktitle={Proceedings of the 28th ACM International Conference on Multimedia},
     pages={3386--3394},
     year={2020},
- }```
-
-`## **References and Acknowledgements**
-This implementation is based on / inspired by:
-
-- https://github.com/SDU-MIMA/SHDCH
-
+ }
