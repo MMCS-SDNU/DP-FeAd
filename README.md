@@ -18,6 +18,14 @@ PyTorch implementataion for Dual Prototypes-Based Personalized Federated Adversa
 
 ## References and Acknowledgements
 
+$$
+\begin{bibliography}{9}
+\bibitem{kawar2022denoising}
+Bahjat Kawar and Michael Elad and Stefano Ermon and Jiaming Song.
+\newblock Denoising Diffusion Restoration Models.
+\newblock In {\em Advances in Neural Information Processing Systems}, 2022.
+\end{bibliography}
+$$
 @inproceedings{zhan2020supervised,
   title={Supervised hierarchical deep hashing for cross-modal retrieval},
   author={Zhan, Yu-Wei and Luo, Xin and Wang, Yongxin and Xu, Xin-Shun},
