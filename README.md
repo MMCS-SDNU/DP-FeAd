@@ -27,6 +27,8 @@ PyTorch implementataion for Dual Prototypes-Based Personalized Federated Adversa
     year={2020}
  }
 
-#This implementation is based on / inspired by:
+##
+
+This implementation is based on / inspired by:
 
 - https://github.com/SDU-MIMA/SHDCH
