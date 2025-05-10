@@ -16,18 +16,13 @@ PyTorch implementataion for Dual Prototypes-Based Personalized Federated Adversa
 
 `python main.py test` for test only.
 
-## Dataset
-
-`FashionVC` 
-
-* link: https://pan.baidu.com/s/1aj7geymxdk0OETxSdhGSNA password: mima
-
-`Ssense`
-
-* link: https://pan.baidu.com/s/1kB_DSDPZ8g_H2B1odO9N0Q password: mima
-
-`imagenet-vgg-f.mat`
-
-* link: https://pan.baidu.com/s/1zFPLWCp961PWUOWSdmFtbg password: mima
-
-> Dataset source and TensorFlow souce code：https://github.com/SDU-MIMA/SHDCH
+## References and Acknowledgements
+`@inproceedings{zhan2020supervised,
+  title={Supervised hierarchical deep hashing for cross-modal retrieval},
+  author={Zhan, Yu-Wei and Luo, Xin and Wang, Yongxin and Xu, Xin-Shun},
+  booktitle={Proceedings of the 28th ACM International Conference on Multimedia},
+  pages={3386--3394},
+  year={2020}
+}`
+This implementation is based on / inspired by:
+https://github.com/SDU-MIMA/SHDCH
