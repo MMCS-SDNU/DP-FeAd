@@ -28,10 +28,10 @@ This implementation is based on / inspired by:
     booktitle={Proceedings of the 28th ACM International Conference on Multimedia},
     pages={3386--3394},
     year={2020},
- }
+ }```
 
-`## **References and Acknowledgements**`
-`This implementation is based on / inspired by:`
+`## **References and Acknowledgements**
+This implementation is based on / inspired by:
 
 - https://github.com/SDU-MIMA/SHDCH
 
