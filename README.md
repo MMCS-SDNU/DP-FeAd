@@ -30,8 +30,8 @@ This implementation is based on / inspired by:
     year={2020},
  }
 
-## **References and Acknowledgements**
-This implementation is based on / inspired by:
+`## **References and Acknowledgements**`
+`This implementation is based on / inspired by:`
 
 - https://github.com/SDU-MIMA/SHDCH
 
